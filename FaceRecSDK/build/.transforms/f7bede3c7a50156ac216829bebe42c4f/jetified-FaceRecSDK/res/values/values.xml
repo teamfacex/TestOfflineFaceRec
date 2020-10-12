@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color">#1F2A44</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="dialog_traspe">#99000000</color>
+    <color name="white">#fff</color>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fontSizeDrawText">20sp</dimen>
+    <dimen name="large_margin">10dp</dimen>
+    <dimen name="small_margin">2dp</dimen>
+    <dimen name="text_large">22sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <string name="app_name">OpenCV-3.0.0</string>
+    <string name="camera">camera</string>
+    <string name="default_web_client_id" translatable="false">947613522747-4jjn8129ptf4u8lcsbnbfib0ir8rcb8h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://facexterminal.firebaseio.com</string>
+    <string name="gallery">Gallery</string>
+    <string name="gcm_defaultSenderId" translatable="false">947613522747</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgVSDpnoJdtoXs6T1Td4ttM2Usq5d_z0E</string>
+    <string name="google_app_id" translatable="false">1:947613522747:android:0f5334da9cf864ec5ff51e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgVSDpnoJdtoXs6T1Td4ttM2Usq5d_z0E</string>
+    <string name="google_storage_bucket" translatable="false">facexterminal.appspot.com</string>
+    <string name="project_id" translatable="false">facexterminal</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+</resources>

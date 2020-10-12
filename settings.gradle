@@ -1,0 +1,3 @@
+include ':FaceRecSDK'
+include ':app'
+rootProject.name = "TestFaceRec"
